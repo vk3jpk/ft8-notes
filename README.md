@@ -7,8 +7,8 @@ reception of the FT8 digital mode.
 
 FT8 is a digital mode used by amateur radio operators that has
 become quite popular since it was first introduced in 2017.
-It was created by Dr. Joe Taylor (K1JT) and his collaborators
-who develop the
+It was created by Dr. Joe Taylor (K1JT) and Dr. Steven Franke (K9AN)
+and their collaborators who develop the
 [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html) program.
 
 I was interested in how FT8 works, so I decided to read the source
